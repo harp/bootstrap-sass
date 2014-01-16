@@ -52,7 +52,7 @@ Or, just a portion of Bootstrap:
 
 ## Use
 
-Bootstrap Sass for Harp is the same as Bootstrap Sass, except the `img-retina` mixin has been removed until issue [#231](https://github.com/hcatlin/libsass/issues/231) has been closed in [libsass](https://github.com/hcatlin/libsass).
+Bootstrap Sass for Harp is the same as Bootstrap Sass, save a few differences that are blocked by issue [#231](https://github.com/hcatlin/libsass/issues/231) in libsass: the `img-retina` mixin is not supported, and neither are the Glyphicons partial is not included by default.
 
 ## Resources
 
